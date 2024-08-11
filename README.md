@@ -18,7 +18,9 @@ Disclaimer: All datasets and reports do not represent any company but just a dum
 
 
 ## Skills & Concept demonstrated
+The following Power BI features were incorporated.
 
+DAX, Quick Measures, Modelling, Filters
 ![](power_query.jpg)
 
 
