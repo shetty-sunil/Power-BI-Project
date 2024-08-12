@@ -21,11 +21,12 @@ Disclaimer: All datasets and reports do not represent any company but just a dum
 
 ## Skills & Concept demonstrated
 The following Power BI features were incorporated.
--Power Query (For data cleaning)
--DAX
--Quick Measures
--Modelling
--Filters
+- Power Query (For data cleaning)
+- DAX
+- Quick Measures
+- Modelling
+- Filters
+- Schedule Refresh
 
 ## Data Cleaning
 I have added sample screenshot of Power Query.
@@ -101,3 +102,9 @@ Open PO Report:
 ![](open_po_report.jpg)
 
 ## Conclusion
+- Inventory is high when compare to Sales. Controlling inventory will help to manage Capital Expenditure
+- Sales wise both TV & LA are decently performing
+- Open POs Ageing more than 30 Days should be cancelled to achieve accurate forecast & better control on inventory
+- Open PO value Ageing more than 30 days is 54 Crore.
+- Based on past sales we have calculated Daily Run Rate (DRR), based on DRR we have calcuated Days on Hand of Inventory (DOH).
+- Should consider DOH units so that proper forcasting is made
